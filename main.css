@@ -1,2 +1,19 @@
+
+
 body {background-color: black;}
 body {color: gray;}
+.header-box {
+	background-color: white;
+	margin: -10px
+}
+
+.nav {
+	color: black;
+	font-weight: bold;
+	font-size: 125%;
+	text-align: left;
+	text-decoration: none;
+	padding: 5px;
+
+
+}
